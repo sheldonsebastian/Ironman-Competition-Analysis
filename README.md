@@ -1,6 +1,5 @@
 # Ironman Triathlon Competition Analysis
-## - Sheldon Sebastian
----
+## Sheldon Sebastian
 
 ### Introduction
 
