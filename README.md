@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Ironman Triathlon Competition Analysis
+## - Sheldon Sebastian
+---
 
-You can use the [editor on GitHub](https://github.com/sheldonsebastian/ironman-competition-analysis/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+An Ironman Triathlon is one of a series of long-distance triathlon races organized by the World Triathlon Corporation (WTC), consisting of a 2.4-mile (3.86 km) swim, a 112-mile (180.25 km) bicycle ride and a marathon 26.22-mile (42.20 km) run, raced in that order.
 
-### Markdown
+All the 3 events are all conducted on same day and hence it is widely considered as one of the most difficult one-day sporting events in the world. Any participant who manages to complete the triathlon within these time constraints is designated an Ironman.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ironman Triathlons are hosted across the world and competitors collect points to participate in Ironman World Championship held annually in Hawaii.
 
-```markdown
-Syntax highlighted code block
+### Analysis performed for following questions:
+* What percentage of competitors finish the race?
+* What is the change in overall competition time over the years?
+* What is the performance difference between championship races and qualifying races?
+* What are the performance differences between amateur competitors and professional competitors?
+* What percentage of amateur racers overtook professional racers?
+* How many participants are from various divisions?
+* What is performance of a division?
+* How does USA perform in comparison to the rest of the world?
+* Which countries participate the most?
+* Which countries perform the best in terms of overall time?
 
-# Header 1
-## Header 2
-### Header 3
+To see interactive Jupyter Notebook:
+https://nbviewer.jupyter.org/github/sheldonsebastian/ironman-competition-analysis/blob/7a558ae6c4cede3d03d1c68d08588dd76e6e4f3c/Ironman%20Competition%20Analysis.ipynb
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Conclusion
+In conclusion, about 80% of participants complete the Ironman competition and in recent years this number is strongly growing. The overall completion time of the race is also decreasing and participants perform better in championship races than in non-championship races.
 
-**Bold** and _Italic_ and `Code` text
+The PRO athlete performs better than an amateur athlete on average, but there is still a 33% chance that an amateur can overtake a professional in a race.
 
-[Link](url) and ![Image](src)
-```
+The most number of participants are from the 35-39-year-old age division, followed by 30-34-year-old age division. Other than the PRO division, the 30-34 year age division performs the best with the lowest race times. Thus an individual's age should not restrict oneself from participating in ironman.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sheldonsebastian/ironman-competition-analysis/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Countries like the USA, Canada, Brazil, Australia, United Kingdom, Germany participate in higher numbers. Countries like Tanzania, Greenland, Australia, Germany, the United Kingdom have better overall race times.
