@@ -1,0 +1,40 @@
+Example::
+listOfButtonNames = ["Button1","Button2","Button3"]
+plotsPerButton = 3
+len(listOfPlotTemplates) = 9
+				
+1. Initialize visibleArr with all False,
+				0	  1	    2	  3		4	  5		6	 7	   8
+visibleArr : [False,False,False,False,False,False,False,False,False]
+
+2. for index,button in enumerate(listOfButtonNames):
+	
+	#index will have values of 0,1,2
+3.	lower = index * plotsPerButton # will have values of [0,3,6]
+4.	upper = (index + 1) * plotsPerButton # will have values of [3,6,9]
+	
+	#1st iteration [lower = 0, upper = 3]
+	#2nd iteration [lower = 3, upper = 6]
+	#3rd iteration [lower = 6, upper = 9]
+	
+5.	for trueIndex in range(lower, upper):
+                visibleArr[trueIndex] = True
+	
+	
+
+
+
+# Button1
+				0	  1	    2	  3		4	  5		6	 7	   8
+visibleArr : [True,True,True,False,False,False,False,False,False]
+
+# Button2
+				0	  1	    2	  3		4	  5		6	 7	   8
+visibleArr : [False,False,False,True,True,True,False,False,False]
+
+# Button3
+				0	  1	    2	  3		4	  5		6	 7	   8
+visibleArr : [False,False,False,False,False,False,True,True,True]
+
+
+
