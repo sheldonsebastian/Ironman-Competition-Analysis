@@ -32,4 +32,4 @@ The most number of participants are from the 35-39-year-old age division, follow
 
 Countries like the USA, Canada, Brazil, Australia, United Kingdom, Germany participate in higher numbers. Countries like Tanzania, Greenland, Australia, Germany, the United Kingdom have better overall race times.
 
-Links to view: [Jupyter Notebook](https://github.com/sheldonsebastian/ironman-competition-analysis/blob/master/Ironman%20Competition%20Analysis.ipynb), [Interactive Jupyter Notebook](https://nbviewer.jupyter.org/github/sheldonsebastian/ironman-competition-analysis/blob/7a558ae6c4cede3d03d1c68d08588dd76e6e4f3c/Ironman%20Competition%20Analysis.ipynb)
+Links to view: [Jupyter Notebook](https://github.com/sheldonsebastian/ironman-competition-analysis/blob/master/Ironman%20Competition%20Analysis.ipynb), [Interactive Jupyter Notebook](https://nbviewer.jupyter.org/github/sheldonsebastian/ironman-competition-analysis/blob/71bc8cf96033fc9fe8de80cdf1cd157312419bc9/Ironman%20Competition%20Analysis.ipynb)
