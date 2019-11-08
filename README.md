@@ -1,6 +1,8 @@
 # Ironman Triathlon Competition Analysis
 ## Sheldon Sebastian
 
+<img src="banner.jpg">
+
 ### Introduction
 
 An Ironman Triathlon is one of a series of long-distance triathlon races organized by the World Triathlon Corporation (WTC), consisting of a 2.4-mile (3.86 km) swim, a 112-mile (180.25 km) bicycle ride and a marathon 26.22-mile (42.20 km) run, raced in that order.
