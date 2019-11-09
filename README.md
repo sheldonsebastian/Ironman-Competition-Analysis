@@ -11,6 +11,7 @@ All the 3 events are all conducted on same day and hence it is widely considered
 
 Ironman Triathlons are hosted across the world and competitors collect points to participate in Ironman World Championship held annually in Hawaii.
 
+------------------------------------------------------------
 ### Analysis performed for following questions:
 * What percentage of competitors finish the race?
 * What is the change in overall competition time over the years?
@@ -23,6 +24,14 @@ Ironman Triathlons are hosted across the world and competitors collect points to
 * Which countries participate the most?
 * Which countries perform the best in terms of overall time?
 
+------------------------------------------------------------
+
+Check following link for video explanation::
+
+[![Ironman competition analysis](http://img.youtube.com/vi/Wvyi_BV6t3o/0.jpg)](http://www.youtube.com/watch?v=Wvyi_BV6t3o "Ironman competition analysis")
+
+------------------------------------------------------------
+
 ### Conclusion
 In conclusion, about 80% of participants complete the Ironman competition and in recent years this number is strongly growing. The overall completion time of the race is also decreasing and participants perform better in championship races than in non-championship races.
 
@@ -32,4 +41,5 @@ The most number of participants are from the 35-39-year-old age division, follow
 
 Countries like the USA, Canada, Brazil, Australia, United Kingdom, Germany participate in higher numbers. Countries like Tanzania, Greenland, Australia, Germany, the United Kingdom have better overall race times.
 
+------------------------------------------------------------
 Links to view: [Jupyter Notebook](https://github.com/sheldonsebastian/ironman-competition-analysis/blob/master/Ironman%20Competition%20Analysis.ipynb), [Interactive Jupyter Notebook](https://nbviewer.jupyter.org/github/sheldonsebastian/ironman-competition-analysis/blob/71bc8cf96033fc9fe8de80cdf1cd157312419bc9/Ironman%20Competition%20Analysis.ipynb)
