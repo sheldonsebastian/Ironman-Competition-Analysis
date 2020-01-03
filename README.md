@@ -11,7 +11,7 @@ All the 3 events are all conducted on same day and hence it is widely considered
 
 Ironman Triathlons are hosted across the world and competitors collect points to participate in Ironman World Championship held annually in Hawaii.
 
-### 1. What percentage of competitors finish the race?
+### a. What percentage of competitors finish the race?
 
 As ironman competitions are very tough and grueling we want to find the percentage of competitors who finished the race. We get count of participants who did not complete race by filtering overall column as DNS or Did not start, DNF = Did not finish and DQ = Disqualified.
 
@@ -21,7 +21,7 @@ We want to see how many percentage of people who completed championship and non 
 
 From above pie plots, we conclude that majority of the participants who take part complete the ironman race. We also notice that there is higher race completion in championship races.
 
-### 2. What is the change in overall competition time over the years?
+### b. What is the change in overall competition time over the years?
 
 We want to analyze the change in overall competition time, swim time, bike time and run time over the years.
 
@@ -35,7 +35,7 @@ We want to analyze the change in overall competition time, swim time, bike time 
 
 We notice there is a downward trend in overall time for a participant to complete the race. There is very small variation of swim time over the years, it is in range of 74 to 78 minutes. Similarly bike time is in range of 370 to 380 minutes. The run time decreases over the years too, being the lowest at 278 minutes in 2012.
 
-### 3. What is the performance difference between championship races and qualifying races?
+### c. What is the performance difference between championship races and qualifying races?
 
 <img src="images/newplot9.png">
 
@@ -47,7 +47,7 @@ We notice there is a downward trend in overall time for a participant to complet
 
 We notice that overall time, swim time, bike time and run time for championship races are always less than non championship races over the years. A possible reason could be that in championship races, participants have already practiced ironman competition in non championship races, thus their performance could improve in championship races.
 
-### 4. What are the performance differences between amateur competitors and professional competitors?
+### d. What are the performance differences between amateur competitors and professional competitors?
 
 Since we have professional triathlon athletes competing with amateur competitors, we want to see the performance difference between them.
 
@@ -61,7 +61,7 @@ Since we have professional triathlon athletes competing with amateur competitors
 
 We notice that overall time, swim time, bike time and run time for professional athlete is always less than Amateur athlete over the years by a very significant margin.
 
-### 5. What percentage of amateur racers overtook professional racers?
+### e. What percentage of amateur racers overtook professional racers?
 
 Although the average time over the years of a professional athlete is significantly less than an amateur we want to analyze, whether an amateur can overtake a professional and get a better overall rank.
 
@@ -69,7 +69,7 @@ Although the average time over the years of a professional athlete is significan
 
 Even though on average amateurs do not perform as good as professionals, from our analysis we notice that 33% the time, an amateur can overtake a pro in a race.
 
-### 6. How many participants are from various divisions?
+### f. How many participants are from various divisions?
 
 There are many age divisions in ironman competition, and there is also a separate division for PRO athletes. We want to analyze the number of participants from each division. Here we are only analyzing the participation count and not the participants finishing the competition.
 
@@ -79,13 +79,13 @@ There are many age divisions in ironman competition, and there is also a separat
 
 We notice from above graph that most number of participants are from age division of 35-39 years, followed by 30-34 years. PRO athletes participating in race are 6th highest value and highlighted in red.
 
-### 7. What is performance of a division?
+### g. What is performance of a division?
 
 <img src="images/newplot20.png">
 
 From above graph we conclude that PRO athletes are the best performing division, followed by 30-34 age division, followed by 25-29 age division. Age cannot be a determining factor alone for performance, since here older participants perform better than younger participants.
 
-### 8. How does USA perform in comparison to the rest of the world?
+### h. How does USA perform in comparison to the rest of the world?
 
 We now compare the overall performance time of USA with rest of the world.
 
@@ -99,7 +99,7 @@ We now compare the overall performance time of USA with rest of the world.
 
 From above charts we infer that USA has higher overall time, swim time, bike time and run time in comparison with rest of the world.
 
-### 9. Which countries participate the most?
+### i. Which countries participate the most?
 
 We want to know from which countries participate the most in ironman competition.
 
@@ -107,7 +107,7 @@ We want to know from which countries participate the most in ironman competition
 
 From choropleth we observe the highest participating countries are USA, Canada, Brazil, Australia, United Kingdom, Spain, France, Germany, Argentina and South Africa.
 
-### 10. Which countries perform the best in terms of overall time?
+### j. Which countries perform the best in terms of overall time?
 
 We want to know from which countries perform the best in ironman competition.
 
